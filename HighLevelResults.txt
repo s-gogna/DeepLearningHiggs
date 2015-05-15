@@ -1,0 +1,255 @@
+Training ( 1 / 8 ) . . .	
+ConfusionMatrix:
+[[  196658  419922]   31.895% 	[class: 1]
+ [   94249  601671]]  86.457% 	[class: 2]
+ + average row correct: 59.175944328308% 
+ + average rowUcol correct (VOC measure): 40.793405473232% 
+ + global correct: 60.825066666667%
+ConfusionMatrix:
+[[  201103  415477]   32.616% 	[class: 1]
+ [   98037  597883]]  85.913% 	[class: 2]
+ + average row correct: 59.264242649078% 
+ + average rowUcol correct (VOC measure): 40.968498587608% 
+ + global correct: 60.875123809524%
+ConfusionMatrix:
+[[  200505  416075]   32.519% 	[class: 1]
+ [   97020  598900]]  86.059% 	[class: 2]
+ + average row correct: 59.288817644119% 
+ + average rowUcol correct (VOC measure): 40.977914631367% 
+ + global correct: 60.907047619048%
+ConfusionMatrix:
+[[  203212  413368]   32.958% 	[class: 1]
+ [   99393  596527]]  85.718% 	[class: 2]
+ + average row correct: 59.337842464447% 
+ + average rowUcol correct (VOC measure): 41.079148650169% 
+ + global correct: 60.932495238095%
+ConfusionMatrix:
+[[  202059  414521]   32.771% 	[class: 1]
+ [   98496  597424]]  85.847% 	[class: 2]
+ + average row correct: 59.308789670467% 
+ + average rowUcol correct (VOC measure): 41.028802096844% 
+ + global correct: 60.91299047619%
+Training ( 2 / 8 ) . . .	
+ConfusionMatrix:
+[[  211623  405329]   34.301% 	[class: 1]
+ [  105650  589898]]  84.811% 	[class: 2]
+ + average row correct: 59.55595523119% 
+ + average rowUcol correct (VOC measure): 41.435307264328% 
+ + global correct: 61.068266666667%
+ConfusionMatrix:
+[[  218059  398893]   35.345% 	[class: 1]
+ [  109902  585646]]  84.199% 	[class: 2]
+ + average row correct: 59.771892428398% 
+ + average rowUcol correct (VOC measure): 41.755677759647% 
+ + global correct: 61.234666666667%
+ConfusionMatrix:
+[[  222292  394660]   36.031% 	[class: 1]
+ [  113692  581856]]  83.654% 	[class: 2]
+ + average row correct: 59.842503070831% 
+ + average rowUcol correct (VOC measure): 41.897609829903% 
+ + global correct: 61.268419047619%
+ConfusionMatrix:
+[[  223767  393185]   36.270% 	[class: 1]
+ [  114513  581035]]  83.536% 	[class: 2]
+ + average row correct: 59.90302413702% 
+ + average rowUcol correct (VOC measure): 41.979809105396% 
+ + global correct: 61.318247619048%
+ConfusionMatrix:
+[[  226462  390490]   36.707% 	[class: 1]
+ [  116740  578808]]  83.216% 	[class: 2]
+ + average row correct: 59.961348772049% 
+ + average rowUcol correct (VOC measure): 42.080730199814% 
+ + global correct: 61.353904761905%
+Training ( 3 / 8 ) . . .	
+ConfusionMatrix:
+[[  224864  391701]   36.470% 	[class: 1]
+ [  115868  580067]]  83.351% 	[class: 2]
+ + average row correct: 59.910593926907% 
+ + average rowUcol correct (VOC measure): 42.016893625259% 
+ + global correct: 61.328076190476%
+ConfusionMatrix:
+[[  226966  389599]   36.811% 	[class: 1]
+ [  117584  578351]]  83.104% 	[class: 2]
+ + average row correct: 59.957768023014% 
+ + average rowUcol correct (VOC measure): 42.096769809723% 
+ + global correct: 61.357485714286%
+ConfusionMatrix:
+[[  224377  392188]   36.391% 	[class: 1]
+ [  116039  579896]]  83.326% 	[class: 2]
+ + average row correct: 59.85881537199% 
+ + average rowUcol correct (VOC measure): 41.960282623768% 
+ + global correct: 61.277942857143%
+ConfusionMatrix:
+[[  226121  390444]   36.674% 	[class: 1]
+ [  116867  579068]]  83.207% 	[class: 2]
+ + average row correct: 59.940756857395% 
+ + average rowUcol correct (VOC measure): 42.066553235054% 
+ + global correct: 61.347733333333%
+ConfusionMatrix:
+[[  226578  389987]   36.748% 	[class: 1]
+ [  117228  578707]]  83.155% 	[class: 2]
+ + average row correct: 59.95187908411% 
+ + average rowUcol correct (VOC measure): 42.084707319736% 
+ + global correct: 61.355047619048%
+Training ( 4 / 8 ) . . .	
+ConfusionMatrix:
+[[  229202  388493]   37.106% 	[class: 1]
+ [  118126  576679]]  82.999% 	[class: 2]
+ + average row correct: 60.052348673344% 
+ + average rowUcol correct (VOC measure): 42.191396653652% 
+ + global correct: 61.400457142857%
+ConfusionMatrix:
+[[  228779  388916]   37.038% 	[class: 1]
+ [  117902  576903]]  83.031% 	[class: 2]
+ + average row correct: 60.034227371216% 
+ + average rowUcol correct (VOC measure): 42.16733276844% 
+ + global correct: 61.385295238095%
+ConfusionMatrix:
+[[  229140  388555]   37.096% 	[class: 1]
+ [  118073  576732]]  83.006% 	[class: 2]
+ + average row correct: 60.051144659519% 
+ + average rowUcol correct (VOC measure): 42.189228534698% 
+ + global correct: 61.399771428571%
+ConfusionMatrix:
+[[  229331  388364]   37.127% 	[class: 1]
+ [  118236  576569]]  82.983% 	[class: 2]
+ + average row correct: 60.054874420166% 
+ + average rowUcol correct (VOC measure): 42.195925116539% 
+ + global correct: 61.401904761905%
+ConfusionMatrix:
+[[  229979  387716]   37.232% 	[class: 1]
+ [  118417  576388]]  82.957% 	[class: 2]
+ + average row correct: 60.094304382801% 
+ + average rowUcol correct (VOC measure): 42.243681848049% 
+ + global correct: 61.437485714286%
+Training ( 5 / 8 ) . . .	
+ConfusionMatrix:
+[[  228172  388979]   36.972% 	[class: 1]
+ [  118032  577317]]  83.026% 	[class: 2]
+ + average row correct: 59.998665750027% 
+ + average rowUcol correct (VOC measure): 42.13899821043% 
+ + global correct: 61.37059047619%
+ConfusionMatrix:
+[[  227828  389323]   36.916% 	[class: 1]
+ [  117814  577535]]  83.057% 	[class: 2]
+ + average row correct: 59.986470639706% 
+ + average rowUcol correct (VOC measure): 42.121805250645% 
+ + global correct: 61.36099047619%
+ConfusionMatrix:
+[[  227092  390059]   36.797% 	[class: 1]
+ [  117081  578268]]  83.162% 	[class: 2]
+ + average row correct: 59.979547560215% 
+ + average rowUcol correct (VOC measure): 42.102873325348% 
+ + global correct: 61.360761904762%
+ConfusionMatrix:
+[[  227047  390104]   36.790% 	[class: 1]
+ [  117064  578285]]  83.165% 	[class: 2]
+ + average row correct: 59.977126121521% 
+ + average rowUcol correct (VOC measure): 42.099843919277% 
+ + global correct: 61.358628571429%
+ConfusionMatrix:
+[[  228033  389118]   36.949% 	[class: 1]
+ [  117907  577442]]  83.043% 	[class: 2]
+ + average row correct: 59.996391832829% 
+ + average rowUcol correct (VOC measure): 42.134533822536% 
+ + global correct: 61.369523809524%
+Training ( 6 / 8 ) . . .	
+ConfusionMatrix:
+[[  229001  388495]   37.085% 	[class: 1]
+ [  118066  576938]]  83.012% 	[class: 2]
+ + average row correct: 60.04880219698% 
+ + average rowUcol correct (VOC measure): 42.190232872963% 
+ + global correct: 61.404876190476%
+ConfusionMatrix:
+[[  227037  390459]   36.767% 	[class: 1]
+ [  116840  578164]]  83.189% 	[class: 2]
+ + average row correct: 59.977975487709% 
+ + average rowUcol correct (VOC measure): 42.090798914433% 
+ + global correct: 61.348647619048%
+ConfusionMatrix:
+[[  227142  390354]   36.784% 	[class: 1]
+ [  116531  578473]]  83.233% 	[class: 2]
+ + average row correct: 60.008707642555% 
+ + average rowUcol correct (VOC measure): 42.121267318726% 
+ + global correct: 61.38019047619%
+ConfusionMatrix:
+[[  229448  388048]   37.158% 	[class: 1]
+ [  118418  576586]]  82.962% 	[class: 2]
+ + average row correct: 60.059674084187% 
+ + average rowUcol correct (VOC measure): 42.207895219326% 
+ + global correct: 61.412114285714%
+ConfusionMatrix:
+[[  228053  389443]   36.932% 	[class: 1]
+ [  117236  577768]]  83.132% 	[class: 2]
+ + average row correct: 60.031752288342% 
+ + average rowUcol correct (VOC measure): 42.158298194408% 
+ + global correct: 61.395885714286%
+Training ( 7 / 8 ) . . .	
+ConfusionMatrix:
+[[  225528  391210]   36.568% 	[class: 1]
+ [  115446  580316]]  83.407% 	[class: 2]
+ + average row correct: 59.987568855286% 
+ + average rowUcol correct (VOC measure): 42.095202207565% 
+ + global correct: 61.397638095238%
+ConfusionMatrix:
+[[  225483  391255]   36.561% 	[class: 1]
+ [  115859  579903]]  83.348% 	[class: 2]
+ + average row correct: 59.954240918159% 
+ + average rowUcol correct (VOC measure): 42.063346505165% 
+ + global correct: 61.362742857143%
+ConfusionMatrix:
+[[  225794  390944]   36.611% 	[class: 1]
+ [  115915  579847]]  83.340% 	[class: 2]
+ + average row correct: 59.975427389145% 
+ + average rowUcol correct (VOC measure): 42.088451981544% 
+ + global correct: 61.382171428571%
+ConfusionMatrix:
+[[  226729  390009]   36.763% 	[class: 1]
+ [  116643  579119]]  83.235% 	[class: 2]
+ + average row correct: 59.998914599419% 
+ + average rowUcol correct (VOC measure): 42.126351594925% 
+ + global correct: 61.397942857143%
+ConfusionMatrix:
+[[  226158  390580]   36.670% 	[class: 1]
+ [  116175  579587]]  83.302% 	[class: 2]
+ + average row correct: 59.986254572868% 
+ + average rowUcol correct (VOC measure): 42.104789614677% 
+ + global correct: 61.390095238095%
+Training ( 8 / 8 ) . . .	
+ConfusionMatrix:
+[[  226109  390098]   36.694% 	[class: 1]
+ [  116263  580030]]  83.303% 	[class: 2]
+ + average row correct: 59.998126327991% 
+ + average rowUcol correct (VOC measure): 42.129963636398% 
+ + global correct: 61.420114285714%
+ConfusionMatrix:
+[[  226949  389258]   36.830% 	[class: 1]
+ [  116876  579417]]  83.215% 	[class: 2]
+ + average row correct: 60.022266209126% 
+ + average rowUcol correct (VOC measure): 42.166769504547% 
+ + global correct: 61.43740952381%
+ConfusionMatrix:
+[[  227538  388669]   36.926% 	[class: 1]
+ [  117027  579266]]  83.193% 	[class: 2]
+ + average row correct: 60.059213638306% 
+ + average rowUcol correct (VOC measure): 42.211277782917% 
+ + global correct: 61.470780952381%
+ConfusionMatrix:
+[[  227534  388673]   36.925% 	[class: 1]
+ [  117041  579252]]  83.191% 	[class: 2]
+ + average row correct: 60.057884454727% 
+ + average rowUcol correct (VOC measure): 42.2099635005% 
+ + global correct: 61.46940952381%
+ConfusionMatrix:
+[[  228773  387434]   37.126% 	[class: 1]
+ [  117568  578725]]  83.115% 	[class: 2]
+ + average row correct: 60.120576620102% 
+ + average rowUcol correct (VOC measure): 42.289452254772% 
+ + global correct: 61.523657142857%
+Testing . . .	
+ConfusionMatrix:
+[[  106505  128988]   45.226% 	[class: 1]
+ [   57318  207189]]  78.330% 	[class: 2]
+ + average row correct: 61.778326332569% 
+ + average rowUcol correct (VOC measure): 44.513410329819% 
+ + global correct: 62.7388%
